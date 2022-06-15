@@ -1,14 +1,14 @@
 .vs
 .idea/*
-!.idea/.idea.PropertyFinance/
+!.idea/.idea.Distri-backend/
 
-.idea/.idea.PropertyFinance/*
-!.idea/.idea.PropertyFinance/.idea
+.idea/.idea.Distri-backend/*
+!.idea/.idea.Distri-backend/.idea
 
-.idea/.idea.PropertyFinance/.idea/*
-!.idea/.idea.PropertyFinance/.idea/runConfigurations
-!.idea/.idea.PropertyFinance/.idea/indexLayout.xml
-!.idea/.idea.PropertyFinance/.idea/vcs.xml
+.idea/.idea.Distri-backend/.idea/*
+!.idea/.idea.Distri-backend/.idea/runConfigurations
+!.idea/.idea.Distri-backend/.idea/indexLayout.xml
+!.idea/.idea.Distri-backend/.idea/vcs.xml
 
 **/bin
 **/obj

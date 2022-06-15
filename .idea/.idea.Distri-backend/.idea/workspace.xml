@@ -7,16 +7,7 @@
     <projectFile profileName="IIS Express">BusinessLogic/BusinessLogic.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06453dde-2508-4b40-acae-48c1e139c0ff" name="Changes" comment="Updates">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Distri-backend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Distri-backend/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/.dockerignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/bin/Debug/net6.0/BusinessLogic.dll" beforeDir="false" afterPath="$PROJECT_DIR$/API/bin/Debug/net6.0/BusinessLogic.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/bin/Debug/net6.0/BusinessLogic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/API/bin/Debug/net6.0/BusinessLogic.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BusinessLogic/bin/Debug/net6.0/BusinessLogic.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BusinessLogic/bin/Debug/net6.0/BusinessLogic.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BusinessLogic/bin/Debug/net6.0/BusinessLogic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BusinessLogic/bin/Debug/net6.0/BusinessLogic.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BusinessLogic/obj/Debug/net6.0/BusinessLogic.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BusinessLogic/obj/Debug/net6.0/BusinessLogic.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BusinessLogic/obj/Debug/net6.0/BusinessLogic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BusinessLogic/obj/Debug/net6.0/BusinessLogic.pdb" afterDir="false" />
-    </list>
+    <list default="true" id="06453dde-2508-4b40-acae-48c1e139c0ff" name="Changes" comment="Updates" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +107,7 @@
       <updated>1655280325061</updated>
       <workItem from="1655280341338" duration="331000" />
       <workItem from="1655280720370" duration="29000" />
-      <workItem from="1655280885601" duration="11543000" />
+      <workItem from="1655280885601" duration="11846000" />
     </task>
     <task id="LOCAL-00001" summary="Updates">
       <created>1655284605595</created>
@@ -174,7 +165,28 @@
       <option name="project" value="LOCAL" />
       <updated>1655294922546</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Updates">
+      <created>1655295382513</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655295382513</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updates">
+      <created>1655295593155</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655295593155</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updates">
+      <created>1655295654957</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1655295654957</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
