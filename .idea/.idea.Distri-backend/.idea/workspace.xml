@@ -7,31 +7,7 @@
     <projectFile profileName="IIS Express">BusinessLogic/BusinessLogic.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06453dde-2508-4b40-acae-48c1e139c0ff" name="Changes" comment="Updates">
-      <change afterPath="$PROJECT_DIR$/BusinessLogic/Services/Itest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BusinessLogic/Services/test.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Distri-backend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Distri-backend/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/API/API.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/Controllers/WeatherForecastController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/Controllers/WeatherForecastController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/bin/Debug/net6.0/API.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/API/bin/Debug/net6.0/API.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/bin/Debug/net6.0/API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/API/bin/Debug/net6.0/API.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/bin/Debug/net6.0/API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/API/bin/Debug/net6.0/API.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/obj/API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/API.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/obj/Debug/net6.0/API.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/Debug/net6.0/API.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/obj/Debug/net6.0/API.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/Debug/net6.0/API.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/obj/Debug/net6.0/API.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/Debug/net6.0/API.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/obj/Debug/net6.0/API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/Debug/net6.0/API.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/obj/Debug/net6.0/API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/Debug/net6.0/API.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/obj/Debug/net6.0/ref/API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/Debug/net6.0/ref/API.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/obj/Debug/net6.0/refint/API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/Debug/net6.0/refint/API.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/staticwebassets.pack.sentinel" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Distri-backend.sln" afterDir="false" />
-    </list>
+    <list default="true" id="06453dde-2508-4b40-acae-48c1e139c0ff" name="Changes" comment="Updates" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +104,7 @@
       <updated>1655280325061</updated>
       <workItem from="1655280341338" duration="331000" />
       <workItem from="1655280720370" duration="29000" />
-      <workItem from="1655280885601" duration="8971000" />
+      <workItem from="1655280885601" duration="9382000" />
     </task>
     <task id="LOCAL-00001" summary="Updates">
       <created>1655284605595</created>
@@ -137,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655284605595</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updates">
+      <created>1655292520126</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655292520126</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
