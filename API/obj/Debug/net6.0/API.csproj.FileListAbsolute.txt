@@ -25,3 +25,5 @@ C:\Distri\Distri-backend\API\obj\Debug\net6.0\refint\API.dll
 C:\Distri\Distri-backend\API\obj\Debug\net6.0\API.pdb
 C:\Distri\Distri-backend\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 C:\Distri\Distri-backend\API\obj\Debug\net6.0\ref\API.dll
+C:\Distri\Distri-backend\API\bin\Debug\net6.0\BusinessLogic.dll
+C:\Distri\Distri-backend\API\bin\Debug\net6.0\BusinessLogic.pdb

@@ -1,3 +1,4 @@
+using BusinessLogic.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers;
@@ -12,10 +13,12 @@ public class WeatherForecastController : ControllerBase
     };
 
     private readonly ILogger<WeatherForecastController> _logger;
+    private readonly Itest _test;
 
-    public WeatherForecastController(ILogger<WeatherForecastController> logger)
+    public WeatherForecastController(ILogger<WeatherForecastController> logger, Itest test)
     {
         _logger = logger;
+        _test = test;
     }
 
     [HttpGet(Name = "GetWeatherForecast")]
@@ -29,4 +32,11 @@ public class WeatherForecastController : ControllerBase
             })
             .ToArray();
     }
+
+    [HttpGet("/wee")]
+    public string GetTest()
+    {
+        return _test.testing();
+    }
+    
 }

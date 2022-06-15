@@ -1,0 +1,12 @@
+C:\Distri\Distri-backend\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Distri\Distri-backend\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Distri\Distri-backend\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Distri\Distri-backend\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Distri\Distri-backend\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Distri\Distri-backend\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Distri\Distri-backend\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Distri\Distri-backend\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Distri\Distri-backend\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Distri\Distri-backend\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Distri\Distri-backend\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Distri\Distri-backend\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
