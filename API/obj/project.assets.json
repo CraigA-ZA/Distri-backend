@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Distri\\Distri-backend\\Distri-backend\\API\\API.csproj",
+      "projectUniqueName": "C:\\Distri\\Distri-backend\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Distri\\Distri-backend\\Distri-backend\\API\\API.csproj",
+      "projectPath": "C:\\Distri\\Distri-backend\\API\\API.csproj",
       "packagesPath": "C:\\Users\\torsten.prejawa\\.nuget\\packages\\",
-      "outputPath": "C:\\Distri\\Distri-backend\\Distri-backend\\API\\obj\\",
+      "outputPath": "C:\\Distri\\Distri-backend\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\torsten.prejawa\\AppData\\Roaming\\NuGet\\NuGet.Config",

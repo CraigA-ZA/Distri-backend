@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XTcr/PwMPHX+nAWAvre7it/90wOUkDZRSPz/F41bIVJQiRrz+0Y4ajOxLiSCTMIfGreJvnnwcFviJZW6rNMzDA==",
+  "dgSpecHash": "9vu76uTCmzx5+By6jCeMQZypb/bT7jeCuRUIN09IuaozYmA78hxYO+h219SDGEJb4bpADuF6CGPUdtRwradReA==",
   "success": true,
-  "projectFilePath": "C:\\Distri\\Distri-backend\\Distri-backend\\API\\API.csproj",
+  "projectFilePath": "C:\\Distri\\Distri-backend\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\torsten.prejawa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\torsten.prejawa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
