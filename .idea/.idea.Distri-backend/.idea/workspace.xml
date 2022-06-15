@@ -6,39 +6,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06453dde-2508-4b40-acae-48c1e139c0ff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Distri-backend/.idea/.idea.Distri-backend/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/.idea/.idea.Distri-backend/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/.idea/.idea.Distri-backend/.idea/projectSettingsUpdater.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/.idea/.idea.Distri-backend/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/.dockerignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/API.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/Controllers/WeatherForecastController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/Properties/launchSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/WeatherForecast.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/appsettings.Development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/appsettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/obj/API.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/obj/API.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/obj/API.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/obj/Debug/net6.0/API.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/obj/Debug/net6.0/API.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/obj/Debug/net6.0/API.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/obj/Debug/net6.0/API.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/obj/Debug/net6.0/API.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/obj/Debug/net6.0/API.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/API/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Distri-backend/Distri-backend.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Distri-backend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Distri-backend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/staticwebassets.pack.sentinel" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2AbZcU5qiS6TWMcjCV7xQ0fcc1U" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -51,6 +30,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
@@ -97,6 +77,7 @@
       <updated>1655280325061</updated>
       <workItem from="1655280341338" duration="331000" />
       <workItem from="1655280720370" duration="29000" />
+      <workItem from="1655280885601" duration="3672000" />
     </task>
     <servers />
   </component>
