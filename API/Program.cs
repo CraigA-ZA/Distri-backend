@@ -9,7 +9,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddTransient<Itest, test>();
-builder.Services.AddSingleton<IClass1, Class1>();
+builder.Services.AddTransient<IClass1, Class1>();
 
 var app = builder.Build();
 
