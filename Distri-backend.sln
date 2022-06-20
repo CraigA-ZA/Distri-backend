@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{D201F76A-7ED8-413A-A5D7-FC7CB17C296B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{6A5F0637-B7BA-4724-BCCD-1FD862355EBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{B34DCE36-1009-46F9-B0E7-15F566080A05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D201F76A-7ED8-413A-A5D7-FC7CB17C296B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D201F76A-7ED8-413A-A5D7-FC7CB17C296B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D201F76A-7ED8-413A-A5D7-FC7CB17C296B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D201F76A-7ED8-413A-A5D7-FC7CB17C296B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A5F0637-B7BA-4724-BCCD-1FD862355EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5F0637-B7BA-4724-BCCD-1FD862355EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5F0637-B7BA-4724-BCCD-1FD862355EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5F0637-B7BA-4724-BCCD-1FD862355EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B34DCE36-1009-46F9-B0E7-15F566080A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34DCE36-1009-46F9-B0E7-15F566080A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34DCE36-1009-46F9-B0E7-15F566080A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34DCE36-1009-46F9-B0E7-15F566080A05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	
+EndGlobal
+
