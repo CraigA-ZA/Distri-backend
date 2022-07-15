@@ -18,8 +18,14 @@ builder.Services.AddTransient<IShopMapper, ShopMapper>();
 
 builder.Services.AddTransient<IShopCreationRepository, ShopCreationRepository>();
 
+
+builder.Services.AddCors(options => options.AddPolicy("ApiCorsPolicy", builder =>
+{
+    builder.WithOrigins("http://localhost:4200", "https://distri-frontend.herokuapp.com/").AllowAnyMethod().AllowAnyHeader();
+}));
+
 var app = builder.Build();
-app.UseCors();
+app.UseCors("ApiCorsPolicy");
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
