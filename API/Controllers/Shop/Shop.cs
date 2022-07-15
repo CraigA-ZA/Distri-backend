@@ -12,10 +12,10 @@ namespace API.Controllers.Shop
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ShopCreationController : ControllerBase
+    public class ShopController : ControllerBase
     {
         private readonly IShopCreationService _shopCreationService;
-        public ShopCreationController(IShopCreationService shopCreationService)
+        public ShopController(IShopCreationService shopCreationService)
         {
             _shopCreationService = shopCreationService;
         }
