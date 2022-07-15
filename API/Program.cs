@@ -1,4 +1,7 @@
-using BusinessLogic.Services;
+using BusinessLogic.Mapping;
+using Repository.Models.Services;
+using Repository.Models.Services.Shop;
+using Repository.Repositories.Shop;
 using Repository.Repositories.TestQuery;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +13,10 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddTransient<Itest, test>();
 builder.Services.AddTransient<ITestQuery, TestQuery>();
+builder.Services.AddTransient<IShopCreationService, ShopCreationService>();
+builder.Services.AddTransient<IShopMapper, ShopMapper>();
+
+builder.Services.AddTransient<IShopCreationRepository, ShopCreationRepository>();
 
 var app = builder.Build();
 

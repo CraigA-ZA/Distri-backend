@@ -1,7 +1,7 @@
-using BusinessLogic.Services;
+using Repository.Models.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace API.Controllers;
+namespace BusinessLogic.DTOs.Controllers;
 
 [ApiController]
 [Route("[controller]")]

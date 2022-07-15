@@ -1,4 +1,4 @@
-namespace API;
+namespace BusinessLogic.DTOs;
 
 public class WeatherForecast
 {

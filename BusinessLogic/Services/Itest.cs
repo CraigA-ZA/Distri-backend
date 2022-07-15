@@ -1,4 +1,4 @@
-﻿namespace BusinessLogic.Services;
+﻿namespace Repository.Models.Services;
 
 public interface Itest
 {

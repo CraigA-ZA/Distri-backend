@@ -1,7 +1,7 @@
 ﻿using Repository;
 using Repository.Repositories.TestQuery;
 
-namespace BusinessLogic.Services;
+namespace Repository.Models.Services;
 
 public class test: Itest
 {
