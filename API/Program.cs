@@ -1,5 +1,5 @@
 using BusinessLogic.Services;
-using Repository;
+using Repository.Repositories.TestQuery;
 
 var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
@@ -9,7 +9,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddTransient<Itest, test>();
-builder.Services.AddTransient<IClass1, Class1>();
+builder.Services.AddTransient<ITestQuery, TestQuery>();
 
 var app = builder.Build();
 

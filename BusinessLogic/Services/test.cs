@@ -1,18 +1,19 @@
 ﻿using Repository;
+using Repository.Repositories.TestQuery;
 
 namespace BusinessLogic.Services;
 
 public class test: Itest
 {
-    private readonly IClass1 _class1;
-    public test(IClass1 class1)
+    private readonly ITestQuery _testQuery;
+    public test(ITestQuery testQuery)
     {
-        _class1 = class1;
+        _testQuery = testQuery;
 
     }
     public string testing()
     {
-        _class1.Testing();
+        _testQuery.Testing();
         return "testingggggggggggggggggggggggggt";
     }
 }

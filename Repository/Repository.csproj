@@ -10,4 +10,8 @@
       <PackageReference Include="Neo4j.Driver" Version="4.4.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Repositories\Shop" />
+    </ItemGroup>
+
 </Project>
