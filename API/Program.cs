@@ -19,7 +19,7 @@ builder.Services.AddTransient<IShopMapper, ShopMapper>();
 builder.Services.AddTransient<IShopCreationRepository, ShopCreationRepository>();
 
 var app = builder.Build();
-
+app.UseCors();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
