@@ -1,7 +1,7 @@
-﻿using Repository;
-using Repository.Repositories.TestQuery;
+﻿using Domain.Repositories.TestQuery;
+using Domain;
 
-namespace Repository.Models.Services;
+namespace Domain.Models.Services;
 
 public class test: Itest
 {

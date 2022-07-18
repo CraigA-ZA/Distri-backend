@@ -1,4 +1,4 @@
-namespace Repository.Models
+namespace Domain.Models
 {
     public class Shop
     {

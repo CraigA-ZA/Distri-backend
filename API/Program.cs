@@ -1,8 +1,7 @@
-using BusinessLogic.Mapping;
-using Repository.Models.Services;
-using Repository.Models.Services.Shop;
+using BusinessLogic.Services.Shop;
+using Domain.Models.Services;
+using Domain.Repositories.TestQuery;
 using Repository.Repositories.Shop;
-using Repository.Repositories.TestQuery;
 
 var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
@@ -14,7 +13,6 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddTransient<Itest, test>();
 builder.Services.AddTransient<ITestQuery, TestQuery>();
 builder.Services.AddTransient<IShopCreationService, ShopCreationService>();
-builder.Services.AddTransient<IShopMapper, ShopMapper>();
 
 builder.Services.AddTransient<IShopCreationRepository, ShopCreationRepository>();
 

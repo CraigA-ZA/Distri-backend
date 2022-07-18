@@ -1,22 +1,18 @@
-using BusinessLogic.DTOs.DTOs;
-using BusinessLogic.Mapping;
 using Repository.Repositories.Shop;
 
-namespace Repository.Models.Services.Shop;
-using Models;
+namespace BusinessLogic.Services.Shop;
+
 public class ShopCreationService: IShopCreationService
 {
     private readonly IShopCreationRepository _shopCreationRepository;
-    private readonly IShopMapper _shopMapper;
     
-    public ShopCreationService(IShopCreationRepository shopCreationRepository, IShopMapper shopMapper)
+    public ShopCreationService(IShopCreationRepository shopCreationRepository)
     {
         _shopCreationRepository = shopCreationRepository;
-        _shopMapper = shopMapper;
     }
-    public async void CreateShop(ShopDTO shop)
+    public async void CreateShop(Domain.Models.Shop shop)
     {
-         _shopCreationRepository.CreateShop(_shopMapper.ToShop(shop));
+         _shopCreationRepository.CreateShop(shop);
     }
     
 }

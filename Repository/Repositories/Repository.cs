@@ -1,6 +1,6 @@
 using Neo4j.Driver;
 
-namespace Repository.Repositories;
+namespace Domain.Repositories;
 
 public class Repository
 {

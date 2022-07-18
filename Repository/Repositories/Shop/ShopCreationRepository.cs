@@ -1,12 +1,9 @@
-using System.Reflection;
-using System.Text.Json;
 using Neo4j.Driver;
 
 namespace Repository.Repositories.Shop;
+using Domain.Models;
 
-using Models;
-
-public class ShopCreationRepository: Repository, IShopCreationRepository
+public class ShopCreationRepository: Domain.Repositories.Repository, IShopCreationRepository
 {
     public async void CreateShop(Shop shop)
     {

@@ -1,4 +1,4 @@
-using Repository.Models.Services;
+using Domain.Models.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BusinessLogic.DTOs.Controllers;

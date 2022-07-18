@@ -1,5 +1,5 @@
 namespace Repository.Repositories.Shop;
-using Models;
+using Domain.Models;
 
 public interface IShopCreationRepository
 {

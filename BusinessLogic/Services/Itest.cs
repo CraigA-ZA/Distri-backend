@@ -1,4 +1,4 @@
-﻿namespace Repository.Models.Services;
+﻿namespace Domain.Models.Services;
 
 public interface Itest
 {

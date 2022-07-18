@@ -1,6 +1,6 @@
 using Neo4j.Driver;
 
-namespace Repository.Repositories.TestQuery;
+namespace Domain.Repositories.TestQuery;
 
 public class TestQuery: Repository, ITestQuery
 {

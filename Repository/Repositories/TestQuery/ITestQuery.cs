@@ -1,4 +1,4 @@
-namespace Repository.Repositories.TestQuery;
+namespace Domain.Repositories.TestQuery;
 
 public interface ITestQuery
 {

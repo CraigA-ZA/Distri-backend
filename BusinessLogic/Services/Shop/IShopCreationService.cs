@@ -1,8 +1,7 @@
-using BusinessLogic.DTOs.DTOs;
 
-namespace Repository.Models.Services.Shop;
+namespace BusinessLogic.Services.Shop;
 
 public interface IShopCreationService
 {
-    void CreateShop(ShopDTO shop);
+    void CreateShop(Domain.Models.Shop shop);
 }
